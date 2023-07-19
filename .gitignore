@@ -41,7 +41,7 @@ out/
 *.ear
 *.zip
 *.tar.gz
-*.rar
+*.rargit
 
 ### Exclusions ###
 !gradle/wrapper/gradle-wrapper.jar
